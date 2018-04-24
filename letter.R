@@ -1,0 +1,1 @@
+letter_selection <- function(x){replicate(x, sample(letters, length(1)))}
